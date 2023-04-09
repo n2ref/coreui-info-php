@@ -1,2 +1,8 @@
-# coreui-info-php
-CoreUI Framework 
+# CoreUI Framework
+
+
+Installation using Composer
+---------------------------
+```
+$ composer require shabuninil/coreui-info-php
+```
