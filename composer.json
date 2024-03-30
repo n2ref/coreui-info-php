@@ -1,17 +1,16 @@
 {
-  "name": "shabuninil/coreui-info-php",
+  "name": "n2ref/coreui-info-php",
   "type": "framework",
   "description": "PHP framework for web applications",
   "keywords": [
     "framework",
     "coreui"
   ],
-  "homepage": "https://github.com/shabuninil/coreui-info-php",
+  "homepage": "https://github.com/n2ref/coreui-info-php",
   "license": "MIT",
   "authors": [
     {
-      "name": "Igor Shabunin",
-      "email": "shabuninil24@gmail.com",
+      "name": "n2ref",
       "role": "Developer"
     }
   ],
