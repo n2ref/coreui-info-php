@@ -1,5 +1,5 @@
 {
-  "name": "n2ref/coreui-info-php",
+  "name": "n2ref/coreui-info",
   "type": "framework",
   "description": "PHP framework for web applications",
   "keywords": [
@@ -7,7 +7,7 @@
     "coreui"
   ],
   "homepage": "https://github.com/n2ref/coreui-info-php",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "authors": [
     {
       "name": "n2ref",
